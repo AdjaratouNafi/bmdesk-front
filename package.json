@@ -3,14 +3,12 @@
   "public": true,
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --open --prod",
-    "dev": "ng serve --open",
+    "start": "ng serve --open",
     "build": "ng build --prod",
     "test": "ng test",
     "postinstall": "ngcc"
   },
   "dependencies": {
-    "@angular/cli": "^11.0.5",
     "@angular/common": "^11.0.5",
     "@angular/compiler": "^11.0.5",
     "@angular/core": "^11.0.5",
@@ -32,6 +30,7 @@
     "zone.js": "^0.10.2"
   },
   "devDependencies": {
+    "@angular/cli": "^11.0.5",
     "@angular-devkit/build-angular": "~0.1100.7",
     "@angular/animations": "^11.0.5",
     "@angular/compiler-cli": "^11.0.5",
