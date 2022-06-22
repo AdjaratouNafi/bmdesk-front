@@ -5,7 +5,7 @@
 export const environment = {
     production: false,
     Base_API_URL: 'https://bmdesk-api1-bmdesk.apps.cluster.heritage.africa ',
-    Site_URL: 'https://bmdesk-api1-bmdesk.apps.cluster.heritage.africa ',
+    Site_URL: 'https://bmdesk-front-git-bmdesk2.apps.cluster.heritage.africa ',
     Expiration_Time: 60
 };
 
