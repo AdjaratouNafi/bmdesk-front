@@ -1,10 +1,9 @@
 ﻿export const environment = {
-    production: true,
-    Base_API_URL: 'https://api.bmsdesk.com',
-    Site_URL: 'https://bmsdesk.com',
-    Expiration_Time: 60
+  production: true,
+  Base_API_URL: "https://bmdesk-api12-bmdesk.apps.cluster.heritage.africa",
+  Site_URL: "https://bmdesk-front-git-bmdesk2.apps.cluster.heritage.africa",
+  Expiration_Time: 60,
 };
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
